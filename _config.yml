@@ -60,7 +60,7 @@ plugins:
 
 author:
   name   : "Grace Madison"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/bio-photo2.jpeg"
   bio    : "I'm a senior in the dual-degree program between Columbia University and Trinity College Dublin studying Computer Science and Mathematics, with interests in machine learning, software engineering, and applied math."
   links:
     - label: "Website"
