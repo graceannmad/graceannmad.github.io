@@ -63,9 +63,9 @@ author:
   avatar : "/assets/images/bio-photo3.jpeg"
   bio    : "I'm a senior in the dual-degree program between Columbia University and Trinity College Dublin studying Computer Science and Mathematics, with interests in machine learning, software engineering, and applied math."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
+    # - label: "Website"
+    #   icon: "fas fa-fw fa-link"
+    #   url: "https://"
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-twitter-square"
     #   url: "https://twitter.com/"
