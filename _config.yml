@@ -74,7 +74,7 @@ author:
       url: "https://github.com/graceannmad"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/gracemadison/"
+      url: "https://www.linkedin.com/in/grace-madison/"
 
 footer:
   links:
@@ -83,7 +83,7 @@ footer:
       url: "https://github.com/graceannmad"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/gracemadison/"
+      url: "https://www.linkedin.com/in/grace-madison/"
 
 defaults:
   # _posts
